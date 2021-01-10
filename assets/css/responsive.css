@@ -1,0 +1,75 @@
+/* Medium Layout: 1280px. */
+@media only screen and (min-width: 992px) and (max-width: 1200px) {
+  .navbar > .container .navbar-brand, .navbar > .container-fluid .navbar-brand {
+      margin-left: 25px;
+  }
+  .navbar-right {
+      margin-right: 20px;
+    }
+    .navbar-default .navbar-nav > li > a {
+        font-size: 16px;
+    }
+    .banner-inner .banner-inner-content {
+        margin-left: 60px;
+    }
+    .top-content p {
+        width: 700px;
+    }
+    .single-work {
+        padding: 40px 20px;
+    }
+    .full-work {
+        margin: 50px 30px;
+    }
+    .single-second-work-image img {
+        width: 100%;
+        margin-top: 70%;
+    }
+    #second-work {
+        margin: 0 0 50px 0;
+    }
+    .no-js .owl-carousel, .owl-carousel.owl-loaded {
+      margin-left: 40px;
+    }
+    .owl-carousel .owl-item img {
+        width: 75%;
+    }
+    .mobiin img {
+        left: 36.5%;
+        top: 188px;
+        width: 284px;
+        height: 565px;
+      }
+      #user .top-content h2 {
+          margin-bottom: 40px;
+      }
+      #user {
+          padding: 40px 0 0 0;
+      }
+      .user-single-comment p {
+          width: 700px;
+          margin: 0 auto;
+      }
+      .single-user {
+          margin-left: 20px;
+      }
+      .owl-nav .owl-prev i {
+          left: 0;
+      }
+
+
+}
+/* Tablet Layout: 768px. */
+@media only screen and (min-width: 768px) and (max-width: 991px) {
+
+
+}
+/* Mobile Layout: 320px. */
+@media only screen and (max-width: 767px) {
+
+
+}
+/* Wide Mobile Layout: 480px. */
+@media only screen and (min-width: 480px) and (max-width: 767px) {
+
+}
